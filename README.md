@@ -1,0 +1,1 @@
+# fredericton-fire-stats
