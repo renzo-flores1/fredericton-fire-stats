@@ -1,0 +1,11 @@
+# This is derived from the website
+DEFINITION DETAILS: 
+Begin Time: When the incident was created by the 911 operator 
+Drive Time: This is the time (in seconds) from when a truck leaves the station to when they arrive on scene. 
+            Please be mindful that sometime there are inaccurate times for a number of reasons. 
+            The sample size will negate most of that. 
+Start Hour: This is the hour that the incident started. If it says 3, the incident started between 3am and 4am; if it is 20, it’s between 8pm and 9pm, etc. 
+Under Control: This is the time that the Incident Commander notified dispatch that an incident was under control. This does not get recorded with every call, so some of the fields are blank. 
+Time UC: Calculation of the number of minutes from arrival on scene to when it was reported under control. There are a lot of variables that affect how quickly an incident is controlled, but one may see patterns. 
+        000 series is Undetermined, 100 series is Incendiary, 300 is Misuse of Ignition Source, 400 is Misuse of Material ignited, 500 Construction Deficiency, 600 Misuse of Equipment, 700 Human failing, 
+        800 Vehicle accident and 900 is Miscellaneous. 
